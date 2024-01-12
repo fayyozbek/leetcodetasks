@@ -1,0 +1,14 @@
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\bin\Debug\net7.0\FirstTask.exe
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\bin\Debug\net7.0\FirstTask.deps.json
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\bin\Debug\net7.0\FirstTask.runtimeconfig.json
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\bin\Debug\net7.0\FirstTask.dll
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\bin\Debug\net7.0\FirstTask.pdb
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\obj\Debug\net7.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\obj\Debug\net7.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\obj\Debug\net7.0\FirstTask.AssemblyInfo.cs
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\obj\Debug\net7.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\obj\Debug\net7.0\FirstTask.dll
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\obj\Debug\net7.0\refint\FirstTask.dll
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\obj\Debug\net7.0\FirstTask.pdb
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\obj\Debug\net7.0\FirstTask.genruntimeconfig.cache
+C:\Users\Fayyozbek\RiderProjects\Leetcode\FirstTask\obj\Debug\net7.0\ref\FirstTask.dll
