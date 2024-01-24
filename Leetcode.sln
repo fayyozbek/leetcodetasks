@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstTask", "FirstTask\FirstTask.csproj", "{A8BE4FA5-B0E2-4A0B-AC1D-F6BCD1F26AC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{CA42D8F2-6FC3-4945-BA81-C1AEB309D9B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A8BE4FA5-B0E2-4A0B-AC1D-F6BCD1F26AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8BE4FA5-B0E2-4A0B-AC1D-F6BCD1F26AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8BE4FA5-B0E2-4A0B-AC1D-F6BCD1F26AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA42D8F2-6FC3-4945-BA81-C1AEB309D9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA42D8F2-6FC3-4945-BA81-C1AEB309D9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA42D8F2-6FC3-4945-BA81-C1AEB309D9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA42D8F2-6FC3-4945-BA81-C1AEB309D9B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
